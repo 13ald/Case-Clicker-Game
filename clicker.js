@@ -18,6 +18,7 @@ function saveMoneyCount(money) {
 
 function onLoad() {
     cashCount = getMoneyCount();
+    tapVal = 1;
     updateMoneyCount(cashCount);
     updateTapPerSec(tapVal)
 }
@@ -36,8 +37,8 @@ function savePerSecCount(tapVal) {
 }
 
 function updateTapPerSec(tapVal){
-    document.getElementById("moneyPerSec").innerHTML = tapVal;
-    saveTapVal(tapVal);
+    document.getElementById("moneyMulti").innerHTML = tapVal;
+    savePerSecCount(tapVal);
 
 }
 function addPerSec(){

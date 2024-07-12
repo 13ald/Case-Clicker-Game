@@ -114,8 +114,9 @@ body {
 
 .center-text {
     margin: 5px;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: 600;
+    color: rgb(255, 187, 0);
 }
 
 .main-images:hover {
