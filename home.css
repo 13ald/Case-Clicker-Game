@@ -61,7 +61,7 @@ body {
     color: aliceblue;
 }
 
-#mainArea {
+.main-area {
     color: aliceblue;
     display: grid;
     grid-template-columns: 1fr 1fr;

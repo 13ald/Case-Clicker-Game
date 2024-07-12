@@ -1,0 +1,27 @@
+.shop-area {
+    color: aliceblue;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr ;
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    align-self: flex-end;
+    text-align: center;
+    gap: 10px;
+    
+}
+
+.shop-item-image{
+    height: 12vh;
+    width: 8vw;
+    justify-content: center;
+    text-align: center;
+}
+.shop-item{
+    display: flex;
+    flex-direction: column;
+    box-shadow: rgba(24, 158, 247, 0.267) 5px 0px 10px 1px;
+    border-radius: 1rem;
+    align-items: center;
+}
