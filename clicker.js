@@ -29,16 +29,20 @@ function updateMoneyCount(money) {
 
 function getTapVal(){
     let localTapPerSec = window.localStorage.getItem("perTap");
-    return Number.parseInt(localTapPersec)
+    return Number.parseInt(localTapPerSec)
 }
 function savePerSecCount(tapVal) {
     window.localStorage.setItem("perTap", tapVal);
 }
 
 function updateTapPerSec(tapVal){
-    document.getElementById("moneyPerSec") = tapVal;
+    document.getElementById("moneyPerSec").innerHTML = tapVal;
     saveTapVal(tapVal);
 
+}
+function addPerSec(){
+    perTap = perTap * 1.1;
+    updateTapPerSec(tapVal)
 }
 
 onLoad();

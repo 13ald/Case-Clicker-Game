@@ -23,7 +23,7 @@ body {
 .links-wrapper {
     display: flex;
     flex-direction: column;
-    width: 90%;
+    width: 100%;
     align-items: center;
     margin-inline: auto;
 }
@@ -80,7 +80,6 @@ body {
     height: 15rem;
     aspect-ratio: 1/1;
     justify-content: center;
-
 }
 
 .case-images {
@@ -129,3 +128,13 @@ body {
     transition-duration: 1s;
 }
 
+.nav-a {
+    text-align: center;
+    width: inherit;
+    height: inherit;
+    margin-inline: auto;
+    cursor: pointer;
+    align-items: center;
+    margin-inline: auto;
+    justify-content: center;
+}
