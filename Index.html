@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Clicker</title>
+        <link rel="stylesheet" href="home.css" />
+        <script src="https://kit.fontawesome.com/06ab974dc3.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <main>
+            <body>
+                <div id="containerWrap">
+                    <nav class="navbar-left">
+                        <div id="money"></div>
+                        <div class="links-wrapper">
+                            <div id="logoHeader">
+                                <h1>Case Clicker</h1>
+                            </div>
+                            <button class="nav-links" href="index.html"><i class="fa-solid fa-hand-pointer"></i></i> Clicker</button>
+                            <button class="nav-links" href="#html"><i class="fa-solid fa-box"></i> Inventory</i> </button>
+                            <button class="nav-links" href="#html"><i class="fa-solid fa-briefcase"></i> Cases</button>
+                            <button class="nav-links" href="#html"><i class="fa-solid fa-sack-dollar"></i> Upgrades</button>
+                            <button class="nav-links" href="#html"><i class="fa-solid fa-shop"></i> Shop</button>
+                            
+                            
+                        </div>
+                    </nav>
+                    
+                    <div id="mainArea">
+                        
+                        <div id="moneyTapper">
+                            
+                            <div class="main-image-container">
+                                <img  
+                                    class="main-images"
+                                    src="D:\Code\Clicker Game\Assets\Main Screen Image\vecteezy_coin-money-coin-and-gold-coin_19857857.png" onclick="addMoney()"/>
+                            </div>
+                        </div>
+                        <div class="main-text-container">
+                            <p class="center-text">$<span id="moneyCounter"></span></p>
+                            <p class="center-text" id="moneyMulti">$ PER TAP</p>
+                            <p class="center-text" id="moneyPerSec">$ PER SECOND</p>
+                        </div>
+                        <div id="caseTapper">
+                            <img
+                                    class="case-images"
+                                    src="D:\Code\Clicker Game\Assets\Case Images\CS_GO_Weapon_Case.png" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <script src="clicker.js"></script>
+            </body>
+        </main>
+    </body>
+</html>
