@@ -1,0 +1,158 @@
+{
+    "wpnCase1": {
+        "displayName": "Weapon Case",
+        "wpnCase1Price": 90
+    },
+    "wpnCase2": {
+        "displayName": "Weapon Case 2",
+        "wpnCase2Price": 60
+    },
+    "wpnCase3": {
+        "displayName": "Weapon Case 3",
+        "wpnCase1Price": 15
+    },
+    "opBravoCase": {
+        "displayName": "Operation Bravo Case",
+        "opBravoPrice": 70
+    },
+    "esprt2013Case": {
+        "displayName": "Esports 2013 Case",
+        "esprt2013Price": 60
+    },
+    "esprt2013WintCase": {
+        "displayName": "Esports Winter 2013 Case",
+        "esprt2013WintPrice": 39
+    },
+    "esprt2014Case": {
+        "displayName": "Esports 2014 Case",
+        "esprt2013Price": 25
+    },
+    "chromaCase": {
+        "displayName": "Chroma Case",
+        "chromaPrice": 3.5
+    },
+    "chroma2Case": {
+        "displayName": "Chroma 2 Case",
+        "chroma2Price": 2
+    },
+    "chromaCase3": {
+        "displayName": "Chroma 3 Case",
+        "chroma3Price": 2.5
+    },
+    "ClutchCase": {
+        "displayName": "Clutch Case",
+        "ClutchPrice": 4
+    },
+    "cs20Case": {
+        "displayName": "CS20 Case",
+        "cs20Price": 1
+    },
+    "d&nCase": {
+        "displayName": "Dreams and Nightmares Case",
+        "d&nPrice": 3
+    },
+    "falcionCase": {
+        "displayName": "Falchion Case",
+        "falcionPrice": 7
+    },
+    "fractureCase": {
+        "displayName": "Fracture Case",
+        "fracturePrice": 3
+    },
+    "gammaCase": {
+        "displayName": "Gamma Case",
+        "gammaPrice": 4
+    },
+    "gamma2Case": {
+        "displayName": "Gamma 2 Case",
+        "gamma2Price": 4
+    },
+    "gloveCase": {
+        "displayName": "Glove Case",
+        "Price": 20
+    },
+    "horizonCase": {
+        "displayName": "Horizon Case",
+        "Price": 6
+    },
+    "huntsmanCase": {
+        "displayName": "Huntsman Case",
+        "Price": 5
+    },
+    "kiloCase": {
+        "displayName": "Kilowatt Case",
+        "Price": 3
+    },
+    "opBreakCase": {
+        "displayName": "Operation Breakout Case",
+        "Price": 10
+    },
+    "opBrokenCase": {
+        "displayName": "Operation Broken Fang Case",
+        "Price": 10
+    },
+    "opHydraCase": {
+        "displayName": "Operation Hydra Case",
+        "Price": 20
+    },
+    "opPhoenixCase": {
+        "displayName": "Operation Phoenix Case",
+        "Price": 25
+    },
+    "opRipCase": {
+        "displayName": "Operation Riptide Case",
+        "Price": 7
+    },
+    "opVangCase": {
+        "displayName": "Operation Vanguard Case",
+        "Price": 10
+    },
+    "opWildCase": {
+        "displayName": "Operation Wildfire Case",
+        "Price": 14
+    },
+    "prismaCase": {
+        "displayName": "Prisma Case",
+        "Price": 4
+    },
+    "prisma2Case": {
+        "displayName": "Prisma 2 Case",
+        "Price": 3
+    },
+    "recoilCase": {
+        "displayName": "Recoil Case",
+        "Price": 1
+    },
+    "revolutionCase": {
+        "displayName": "Revolution Case",
+        "Price": 3
+    },
+    "revolverCase": {
+        "displayName": "Revolver Case",
+        "Price": 24
+    },
+    "shadowCase": {
+        "displayName": "Shadow Case",
+        "Price": 8
+    },
+    "shatWebCase": {
+        "displayName": "Shattered Web Case",
+        "Price": 6
+    },
+    "snakebiteCase": {
+        "displayName": "Snakebit Case",
+        "Price": 2
+    },
+    "spectrumCase": {
+        "displayName": "Spectrum Case",
+        "Price": 2
+    },
+    "spectrum2Case": {
+        "displayName": "Spectrum 2 Case",
+        "Price": 2
+    },
+    "winterOffCase": {
+        "displayName": "Winter Offensive Case",
+        "Price": 4
+    }
+}
