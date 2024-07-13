@@ -9,8 +9,9 @@
     align-self: flex-end;
     text-align: center;
     gap: 20px;
-    
+    margin-top: 2vh;
     margin-left: 22.5vw;
+    margin-bottom: 2vh;
 }
 
 .shop-item-image {
@@ -29,8 +30,8 @@
 .shop-item {
     display: flex;
     flex-direction: column;
-    box-shadow: rgba(255, 255, 255, 0.267) 5px 0px 10px 1px;
+    box-shadow: rgba(255, 255, 255, 0.267) 0px 0px 8px 1px;
     border-radius: 1rem;
     align-items: center;
-    padding: 3%;
+    padding: 4%;
 }

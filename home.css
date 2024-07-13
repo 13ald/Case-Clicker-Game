@@ -67,11 +67,14 @@ body {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 4fr 4fr;
     position: absolute;
-    width: 80%;
+    width: 75vw;
     height: 100%;
     align-self: flex-end;
     text-align: center;
-    gap: 0;
+    gap: 20px;
+    margin-top: 2vh;
+    margin-left: 22.5vw;
+    margin-bottom: 2vh;
 }
 
 .main-images {
