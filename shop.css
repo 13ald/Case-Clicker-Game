@@ -2,26 +2,35 @@
     color: aliceblue;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
     position: absolute;
-    width: 80%;
+    width: 75vw;
     height: 100%;
     align-self: flex-end;
     text-align: center;
-    gap: 10px;
+    gap: 20px;
     
+    margin-left: 22.5vw;
 }
 
-.shop-item-image{
+.shop-item-image {
     height: 12vh;
     width: 8vw;
     justify-content: center;
     text-align: center;
 }
-.shop-item{
+
+.shop-item > img:hover {
+    height: 12.2vh;
+    width: 8.2vw;
+    transition-duration: 0.5s;
+}
+
+.shop-item {
     display: flex;
     flex-direction: column;
-    box-shadow: rgba(24, 158, 247, 0.267) 5px 0px 10px 1px;
+    box-shadow: rgba(255, 255, 255, 0.267) 5px 0px 10px 1px;
     border-radius: 1rem;
     align-items: center;
+    padding: 3%;
 }
